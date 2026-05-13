@@ -40,11 +40,4 @@ Here you'll find a collection of my projects, tools, and ongoing learning journe
 * ⚡ **[Pikachu Matching Game](https://github.com/LGKAI/project_pikachu-matching-game)** 
 * 🌐 **[Remote Administration Tool](https://github.com/LGKAI/project_remote-administration-tool)**
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGKAI&show_icons=true&theme=tokyonight" alt="LGKAI's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGKAI&layout=compact&theme=tokyonight" alt="Top Langs" width="48%"/>
-</p>
+Feel free to check out the rest of my repositories for more projects!
