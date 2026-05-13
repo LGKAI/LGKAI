@@ -1,6 +1,6 @@
 # Hi there, I'm Lê Gia Khánh aka LGKAI 👋
 
-Welcome to my GitHub profile! I am a passionate student majoring in **Software Engineering for Artificial Intelligence** at the Faculty of Information Technology, University of Science, VNU-HCM (HCMUS). 
+Welcome to my GitHub profile! I am a passionate student majoring in **Artificial Intelligence** at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). 
 
 Here you'll find a collection of my projects, tools, and ongoing learning journey.
 
