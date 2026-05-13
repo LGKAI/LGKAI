@@ -1,4 +1,4 @@
-# Hi there, I'm Lê Gia Khánh 👋
+# Hi there, I'm Lê Gia Khánh aka LGKAI 👋
 
 Welcome to my GitHub profile! I am a passionate student majoring in **Software Engineering for Artificial Intelligence** at the Faculty of Information Technology, University of Science, VNU-HCM (HCMUS). 
 
@@ -34,11 +34,11 @@ Here you'll find a collection of my projects, tools, and ongoing learning journe
 
 ### 📂 Highlighted Projects
 
-* 🤖 **[Prompt Engineering](https://github.com/LGKAI/prompt-engineering)** 
-* 🚗 **[Automatic License Plate Recognition](https://github.com/LGKAI/automatic-license-plate-recognition)**
-* 🏋️ **[Chatbot Gym Assistant](https://github.com/LGKAI/chatbot-gym-assistant)** 
-* ⚡ **[Pikachu Matching Game](https://github.com/LGKAI/pikachu-matching-game)** 
-* 🌐 **[Remote Administration Tool (RAT)](https://github.com/LGKAI/remote-administration-tool)** - *A Computer Networking project*
+* 🤖 **[Prompt Engineering](https://github.com/LGKAI/project_prompt-engineering)** 
+* 🚗 **[Automatic License Plate Recognition](https://github.com/LGKAI/project1_automatic-license-plate-recognition)**
+* 🏋️ **[Chatbot Gym Assistant](https://github.com/LGKAI/project2_chatbot-gym-assistant)** 
+* ⚡ **[Pikachu Matching Game](https://github.com/LGKAI/project_pikachu-matching-game)** 
+* 🌐 **[Remote Administration Tool](https://github.com/LGKAI/project_remote-administration-tool)**
 
 ---
 
