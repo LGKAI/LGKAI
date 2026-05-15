@@ -32,9 +32,8 @@ Here you'll find a collection of my projects, tools, and ongoing learning journe
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
 </p>
   <!-- Bonus -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
+  <a href="https://www.arm.com/"> <img src="https://img.shields.io/badge/LEGv8-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="legv8"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/> </a>
-  <a href="https://en.wikipedia.org/wiki/ARM_architecture" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LEGv8_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="legv8"/> </a>
 
 ---
 
