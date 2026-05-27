@@ -10,7 +10,7 @@ Here you'll find a collection of my projects, tools, and ongoing learning journe
 - 💻 Beyond AI, I also build applications across **Frontend** and **Backend** development.
 - 📫 Reach me at: [leogiakhanh1609@gmail.com](mailto:leogiakhanh1609@gmail.com)
 - 🔗 Connect with me on: [LinkedIn LGKAI](https://www.linkedin.com/in/lgkai)
-- 👨‍💻 Check out my coding skills on: [LeetCode LGKAI](https://leetcode.com/u/ZU5tc7ZZAU/)
+- 👨‍💻 Check out my coding skills on: [LeetCode LGKAI](https://leetcode.com/u/ZU5tc7ZZAU)
 - 😄 Pronouns: he/him
 
 ---
