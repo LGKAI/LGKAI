@@ -9,8 +9,8 @@ Here you'll find a collection of my projects, tools, and ongoing learning journe
 - 🎓 I’m currently focusing my studies and research on **Artificial Intelligence** & **Data Science**.
 - 💻 Beyond AI, I also build applications across **Frontend** and **Backend** development.
 - 📫 Reach me at: [leogiakhanh1609@gmail.com](mailto:leogiakhanh1609@gmail.com)
-- 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/lgkai)
-- 👨‍💻 Check out my coding skills on: [LeetCode](https://leetcode.com/u/ZU5tc7ZZAU/)
+- 🔗 Connect with me on: [LinkedIn LGKAI](https://www.linkedin.com/in/lgkai)
+- 👨‍💻 Check out my coding skills on: [LeetCode LGKAI](https://leetcode.com/u/ZU5tc7ZZAU/)
 - 😄 Pronouns: he/him
 
 ---
