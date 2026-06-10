@@ -1,40 +1,69 @@
-# Hi there, I'm Lê Gia Khánh aka LGKAI 👋
+<div align="center">
+  <h1>Hi there, I'm Lê Gia Khánh (LGKAI) 👋</h1>
+  <h3>🚀 AI Enthusiast | Fullstack Developer | 🎓 CS Student at HCMUS</h3>
+  <p>
+    Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence</b> at the Faculty of Information Technology, University of Science, VNU-HCM. I love building smart systems, creating seamless web applications, and constantly learning new technologies.
+  </p>
+</div>
 
-Welcome to my GitHub profile! I am a passionate student majoring in **Artificial Intelligence (AI)** at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). 
-
-Here you'll find a collection of my projects, tools, and ongoing learning journey.
-
-### 👤 About Me
-
-- I’m currently focusing my studies and research on **Artificial Intelligence (AI)**.
-- Beyond AI, I also build applications across **Frontend** and **Backend** development.
-- Reach me at: [leogiakhanh1609@gmail.com](mailto:leogiakhanh1609@gmail.com)
-- Connect with me on: [LinkedIn LGKAI](https://www.linkedin.com/in/lgkai)
-- Check out my coding skills on: [LeetCode LGKAI](https://leetcode.com/u/ZU5tc7ZZAU)
-- Pronouns: he/him
+<p align="center">
+  <a href="mailto:leogiakhanh1609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lgkai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/ZU5tc7ZZAU">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
-### 💻 Programming Skills
+### 👤 About Me
 
+- 🧠 **Focus:** Deep Learning, Machine Learning, and integrating AI into practical applications.
+- 💻 **Development:** I build end-to-end solutions, bridging the gap between intelligent AI models and scalable Fullstack architectures.
+- 🔭 **Currently Learning:** Advanced concepts in Generative AI, MLOps, and modern web frameworks.
+- 💬 **Ask me about:** Python, AI implementations, or anything related to tech!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core**
 <p align="left">
-  <!-- Major -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
-  <!-- Maths/Data -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/> </a>
-  <!-- Web -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 </p>
+
+**Data, Math & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/>
+</p>
+
+**Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LGKAI&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="LGKAI's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGKAI&theme=radium&hide_border=true&background=0D1117" alt="LGKAI's GitHub Streak" />
+</div>
 
 ---
 
 ### 📂 Standout Projects
 
-Feel free to explore my repositories to discover my standout projects!
+Feel free to explore my pinned repositories below to discover my standout projects, or check out my recent activities. If you find my work helpful or interesting, a ⭐ is always appreciated!
