@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Lê Gia Khánh aka LGKAI 👋</h1>
   <h3>🤖 AI Engineer | 🚀 Fullstack Developer | 🎓 AI Student at HCMUS</h3>
   <p>
-    Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence (AI)</b> at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). I love building smart systems, creating seamless web applications, and constantly learning new technologies. My goal is to bridge the gap between AI and practical software solutions for real-world problems.
+    Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence (AI)</b> at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). I love building smart systems, creating seamless web applications, and constantly learning new technologies. My ultimate goal is to bridge the gap between AI and practical software solutions for real-world problems.
   </p>
 </div>
 
