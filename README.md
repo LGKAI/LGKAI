@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Lê Gia Khánh aka LGKAI 👋</h1>
   <h3>🤖 AI Engineer | 🚀 Fullstack Developer | 🎓 AI Student at HCMUS</h3>
   <p>
-    Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence (AI)</b> at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). I love building smart systems, creating seamless web applications, and constantly learning new technologies.
+    Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence (AI)</b> at the Faculty of Information Technology (FIT), University of Science, VNU-HCM (HCMUS). I love building smart systems, creating seamless web applications, and constantly learning new technologies. My ultimate goal is to bridge the gap between complex AI models and practical, user-centric software solutions that solve real-world problems.
   </p>
 </div>
 
@@ -59,19 +59,13 @@
 
 Feel free to explore my pinned repositories below to discover my standout projects, or check out my recent activities. If you find my work helpful or interesting, a ⭐ is always appreciated!
 
-<p align="center">
-  <a href="https://github.com/LGKAI/Automatic-License-Plate-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGKAI&repo=Automatic-License-Plate-Recognition&theme=radium&bg_color=0D1117&border_color=30363D&hide_border=true" alt="Automatic License Plate Recognition" width="48%"/>
-  </a>
-  <a href="https://github.com/LGKAI/Gym-Assistant-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGKAI&repo=Gym-Assistant-Chatbot&theme=radium&bg_color=0D1117&border_color=30363D&hide_border=true" alt="Gym Assistant Chatbot" width="48%"/>
-  </a>
-  <a href="https://github.com/LGKAI/Pikachu-Matching-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGKAI&repo=Pikachu-Matching-Game&theme=radium&bg_color=0D1117&border_color=30363D&hide_border=true" alt="Pikachu Matching Game" width="48%"/>
-  </a>
-  <a href="https://github.com/LGKAI/Remote-Administration-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGKAI&repo=Remote-Administration-Tool&theme=radium&bg_color=0D1117&border_color=30363D&hide_border=true" alt="Remote Administration Tool" width="48%"/>
-  </a>
-  <a href="https://github.com/LGKAI/AI-AR-Campus-Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LGKAI&repo=AI-AR-Campus-Explorer&theme=radium&bg_color=0D1117&border_color=30363D&hide_border=true" alt="AI-AR-Campus-Explorer" width="48%"/>
-  </a>
+- 🚗 **[Automatic-License-Plate-Recognition](https://github.com/LGKAI/Automatic-License-Plate-Recognition)**  
+  *(Python)*
+- 🤖 **[Gym-Assistant-Chatbot](https://github.com/LGKAI/Gym-Assistant-Chatbot)**  
+  *(Python)*
+- ⚡ **[Pikachu-Matching-Game](https://github.com/LGKAI/Pikachu-Matching-Game)**  
+  *(Python)*
+- 💻 **[Remote-Administration-Tool](https://github.com/LGKAI/Remote-Administration-Tool)**  
+  *(C#)*
+- 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**  
+  *(Python)*
