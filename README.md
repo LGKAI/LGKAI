@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Lê Gia Khánh (LGKAI) 👋</h1>
-  <h3>🚀 AI Enthusiast | Fullstack Developer | 🎓 CS Student at HCMUS</h3>
+  <h1>Hi there, I'm Lê Gia Khánh aka LGKAI 👋</h1>
+  <h3>🤖 AI Engineer | 🚀 Fullstack Developer | 🎓 AI Student at HCMUS</h3>
   <p>
     Welcome to my digital garden! I am a passionate student majoring in <b>Artificial Intelligence</b> at the Faculty of Information Technology, University of Science, VNU-HCM. I love building smart systems, creating seamless web applications, and constantly learning new technologies.
   </p>
@@ -21,9 +21,9 @@
 ---
 
 ### 👤 About Me
-
-- 🧠 **Focus:** Deep Learning, Machine Learning, and integrating AI into practical applications.
+- 🧠 **Focus:** Machine Learning, Deep Learning, and integrating AI into practical applications.
 - 💻 **Development:** I build end-to-end solutions, bridging the gap between intelligent AI models and scalable Fullstack architectures.
+- 📝 **Documentation & Design:** Highly proficient in academic writing with **LaTeX**, crafting visual presentations via **Canva**, and mastering essential office productivity tools.
 - 🔭 **Currently Learning:** Advanced concepts in Generative AI, MLOps, and modern web frameworks.
 - 💬 **Ask me about:** Python, AI implementations, or anything related to tech!
 
@@ -52,15 +52,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGKAI&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="LGKAI's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGKAI&theme=radium&hide_border=true&background=0D1117" alt="LGKAI's GitHub Streak" />
-</div>
 
 ---
 
