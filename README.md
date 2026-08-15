@@ -10,9 +10,10 @@
 
 ### 🧠 My Skills
 
-- 🚀 **AI & Web Development:** Python (ML, DL, NLP, CV), SQL, R, MATLAB, HTML, CSS, JavaScript, Node.js.
+- 🚀 **AI & Web Development:** Python, MATLAB, R, SQL, HTML/CSS, JavaScript, Node.js.
+- 🔍 **Other Programming Languages:** C/C++, Java.
 - 🛠️ **Frameworks & Tools:** GitHub, VS Code, SQL Server, Firebase, Docker, LaTeX, Canva, MS Office.
-- 💬 **Languages:** Vietnamese (Native), English (B1).
+- 💬 **Foreign Language:** English (B1).
 
 ---
 
