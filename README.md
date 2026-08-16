@@ -1,4 +1,4 @@
-# Hi there, I'm Le Gia Khanh (LGKAI) 👋
+# Hi there, I'm Le Gia Khanh (LGKAI)! 👋
 
 ### 🚀 AI Engineer Intern | Specializing in NLP, LLMs & RAG Systems
 
