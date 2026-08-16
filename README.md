@@ -19,11 +19,11 @@ I am a highly analytical and motivated 3rd-year Artificial Intelligence student 
 
 ### 🌟 Featured Projects
 
-- 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**  
-- 💻 **[Remote-Administration-Tool](https://github.com/LGKAI/Remote-Administration-Tool)**  
-- ⚡ **[Pikachu-Matching-Game](https://github.com/LGKAI/Pikachu-Matching-Game)**  
-- 💪 **[Gym-Assistant-Chatbot](https://github.com/LGKAI/Gym-Assistant-Chatbot)**  
-- 🚗 **[Automatic-License-Plate-Recognition](https://github.com/LGKAI/Automatic-License-Plate-Recognition)** 
+* 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**  
+* 💻 **[Remote-Administration-Tool](https://github.com/LGKAI/Remote-Administration-Tool)**  
+* ⚡ **[Pikachu-Matching-Game](https://github.com/LGKAI/Pikachu-Matching-Game)**  
+* 💪 **[Gym-Assistant-Chatbot](https://github.com/LGKAI/Gym-Assistant-Chatbot)**  
+* 🚗 **[Automatic-License-Plate-Recognition](https://github.com/LGKAI/Automatic-License-Plate-Recognition)** 
 
 ---
 
