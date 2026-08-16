@@ -1,6 +1,6 @@
 # Hi there, I'm Le Gia Khanh (LGKAI)! 👋
 
-### 🚀 AI Engineer Intern | Specializing in NLP, LLMs & RAG Systems
+### 🚀 AI Engineer | Specializing in NLP
 
 I am a highly analytical and motivated 3rd-year Artificial Intelligence student at the University of Science, VNU-HCM (HCMUS). I have a strong foundation in Natural Language Processing, Large Language Models, and software engineering. I am passionate about solving complex problems and building end-to-end AI applications, especially conversational agents and Retrieval-Augmented Generation (RAG) pipelines.
 
