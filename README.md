@@ -10,6 +10,7 @@ I am a highly analytical and motivated 3rd-year Artificial Intelligence student 
 
 *   **Machine Learning & Deep Learning:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch.
 *   **NLP & LLMs:** NLTK, Underthesea, Hugging Face (Transformers, PEFT), RAG, LangChain, Vector Databases (ChromaDB, FAISS).
+*   **AI Tools & LLM Deployment:** Ollama, ChatGPT, Codex, Gemini, Antigravity, Claude, GitHub Copilot, Prompt Engineering.
 *   **Web Development:** HTML, CSS, JavaScript, Node.js, FastAPI, Flask.
 *   **Programming Languages:** Python, C, C++, Java, MATLAB, R, SQL.
 *   **MLOps & Tools:** GitHub, VS Code, SQL Server, Firebase, Docker, LaTeX, Canva, MS Office.
@@ -19,11 +20,12 @@ I am a highly analytical and motivated 3rd-year Artificial Intelligence student 
 
 ### 🌟 Featured Projects
 
+* 🏯 **[Portal-HoLeVan-Phai4-Chi2](https://github.com/LGKAI/Portal-HoLeVan-Phai4-Chi2)**  
 * 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**  
 * 💻 **[Remote-Administration-Tool](https://github.com/LGKAI/Remote-Administration-Tool)**  
 * ⚡ **[Pikachu-Matching-Game](https://github.com/LGKAI/Pikachu-Matching-Game)**  
 * 💪 **[Gym-Assistant-Chatbot](https://github.com/LGKAI/Gym-Assistant-Chatbot)**  
-* 🚗 **[Automatic-License-Plate-Recognition](https://github.com/LGKAI/Automatic-License-Plate-Recognition)** 
+* 🚗 **[Automatic-License-Plate-Recognition](https://github.com/LGKAI/Automatic-License-Plate-Recognition)**  
 
 ---
 
