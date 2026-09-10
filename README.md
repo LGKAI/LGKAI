@@ -1,19 +1,19 @@
 # Hi there, I'm Le Gia Khanh (LGKAI)! 👋
 
-### 🚀 AI Engineer | Specializing in NLP
+### 🚀 AI Engineer
 
-I am a highly analytical and motivated 3rd-year Artificial Intelligence student at the University of Science, VNU-HCM (HCMUS). I have a strong foundation in Natural Language Processing, Large Language Models, and software engineering. I am passionate about solving complex problems and building end-to-end AI applications, especially conversational agents and Retrieval-Augmented Generation (RAG) pipelines.
+Highly analytical 3rd-year AI student with a solid foundation in Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV). Proven problem-solving skills in developing both RAG-based conversational agents and image recognition systems. Seeking an AI Engineer Internship to apply cross-domain AI expertise and software engineering skills to real-world projects.
 
 ---
 
 ### 🛠️ Technical Skills
 
-*   **Machine Learning & Deep Learning:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch.
-*   **NLP & LLMs:** NLTK, Underthesea, Hugging Face (Transformers, PEFT), RAG, LangChain, Vector Databases (ChromaDB, FAISS).
-*   **AI Tools & LLM Deployment:** Ollama, ChatGPT, Codex, Gemini, Antigravity, Claude, GitHub Copilot, Prompt Engineering.
-*   **Web Development:** HTML, CSS, JavaScript, Node.js, FastAPI, Flask.
-*   **Programming Languages:** Python, C, C++, Java, MATLAB, R, SQL.
-*   **MLOps & Tools:** GitHub, VS Code, SQL Server, Firebase, Docker, LaTeX, Canva, MS Office.
+*   **Machine Learning & Deep Learning:** Scikit-learn, PyTorch, NumPy, Pandas.
+*   **NLP & LLM:** Hugging Face, RAG, LangChain, Vector Databases (ChromaDB).
+*   **Computer Vision:** CNN, OpenCV, YOLO, ResNet, Image Processing (OCR).
+*   **Web Development & API:** FastAPI, Node.js, HTML, CSS, JavaScript.
+*   **Programming Languages:** Python, C/C++, SQL.
+*   **MLOps & Tools:** GitHub, VSCode, SQL Server, Firebase, Docker, Ollama, LaTeX.
 *   **Foreign Language:** English (B1).
 
 ---
