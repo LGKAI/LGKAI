@@ -13,7 +13,7 @@ Highly analytical 3rd-year AI student with a solid foundation in Machine Learnin
 *   **Computer Vision:** CNN, OpenCV, YOLO, ResNet, Image Processing (OCR).
 *   **Web Development & API:** FastAPI, Node.js, HTML, CSS, JavaScript.
 *   **Programming Languages:** Python, C/C++, SQL.
-*   **MLOps & Tools:** GitHub, VSCode, SQL Server, Firebase, Docker, Ollama, LaTeX.
+*   **Tools:** GitHub, VSCode, SQL Server, Docker, Supabase, Render, Vercel, LaTeX.
 *   **Foreign Language:** English (B1).
 
 ---
