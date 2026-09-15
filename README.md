@@ -9,7 +9,7 @@ Highly analytical 3rd-year AI student with a solid foundation in Machine Learnin
 ### 🛠️ Technical Skills
 
 *   **Machine Learning & Deep Learning:** Scikit-learn, PyTorch, NumPy, Pandas.
-*   **NLP & LLM:** Hugging Face, RAG, LangChain, Vector Databases (ChromaDB).
+*   **NLP & LLM:** Transformer, Hugging Face, RAG, LangChain, Vector Databases (ChromaDB).
 *   **Computer Vision:** CNN, OpenCV, YOLO, ResNet, Image Processing (OCR).
 *   **Web Development & API:** FastAPI, Node.js, HTML, CSS, JavaScript.
 *   **Programming Languages:** Python, C/C++, SQL.
