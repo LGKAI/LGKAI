@@ -2,15 +2,15 @@
 
 ### 🚀 AI Engineer
 
-Highly analytical 3rd-year AI student with a solid foundation in Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV). Proven problem-solving skills in developing both RAG-based conversational agents and image recognition systems. Seeking an AI Engineer Internship to apply cross-domain AI expertise and software engineering skills to real-world projects.
+Highly analytical 3rd-year AI student with a solid foundation in Machine Learning, Natural Language Processing, and Computer Vision. Proven problem-solving skills in developing both RAG-based conversational agents and image recognition systems. Seeking an AI Engineer Internship to apply cross-domain AI expertise and software engineering skills to real-world projects.
 
 ---
 
 ### 🛠️ Technical Skills
 
 *   **Machine Learning & Deep Learning:** Scikit-learn, PyTorch, NumPy, Pandas.
-*   **NLP & LLM:** Transformer, Hugging Face, RAG, LangChain, Vector Databases (ChromaDB).
-*   **Computer Vision:** CNN, OpenCV, YOLO, ResNet, Image Processing (OCR).
+*   **NLP & LLM:** Transformer, Hugging Face, RAG, LangChain, ChromaDB.
+*   **Computer Vision:** CNN, ResNet, YOLO, OpenCV.
 *   **Web Development & API:** FastAPI, Node.js, HTML, CSS, JavaScript.
 *   **Programming Languages:** Python, C/C++, SQL.
 *   **Tools:** GitHub, VSCode, SQL Server, Docker, Supabase, Render, Vercel, LaTeX.
