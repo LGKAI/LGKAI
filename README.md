@@ -20,12 +20,6 @@ Highly analytical AI student with a solid foundation in Machine Learning, Natura
 
 ### 🌟 Featured Projects
 
-* 📻 **[AuraTranslateEdge-OneVoice](https://github.com/LGKAI/AuraTranslateEdge-OneVoice)**  
-* 🏯 **[Portal-HoLeVan-Phai4-Chi2](https://github.com/LGKAI/Portal-HoLeVan-Phai4-Chi2)**  
-* 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**  
-
----
-
-### 📫 Let's Connect!
-*   **Email:** leogiakhanh1609@gmail.com
-*   **LinkedIn:** [linkedin.com/in/lgkai](https://www.linkedin.com/in/lgkai)
+* 🗺️ **[AI-AR-Campus-Explorer](https://github.com/LGKAI/AI-AR-Campus-Explorer)**
+* 🏯 **[Portal-HoLeVan-Phai4-Chi2](https://github.com/LGKAI/Portal-HoLeVan-Phai4-Chi2)**
+* 📻 **[AuraTranslateEdge-OneVoice](https://github.com/LGKAI/AuraTranslateEdge-OneVoice)**
