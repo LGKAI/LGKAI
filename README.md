@@ -9,9 +9,9 @@ Highly analytical AI student with a foundational background in Machine Learning 
 ### 🎓 Education
 
 *   **University of Science, VNU-HCM (HCMUS)** | *Ho Chi Minh City* <br>
-    Specialized Artificial Intelligence
+    *Specialized Artificial Intelligence*
 *   **Le Quy Don High School for the Gifted** | *Quang Tri* <br>
-    Specialized in Chemistry
+    *Specialized in Chemistry*
 
 ---
 
