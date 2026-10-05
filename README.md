@@ -1,8 +1,15 @@
-# Hi there, I'm Le Gia Khanh (LGKAI)! 👋
+# Hi there, I'm Le Gia Khanh! 👋
 
 ### 🚀 AI Engineer
 
 Highly analytical AI student with a foundational background in Machine Learning and Natural Language Processing. Practical academic experience in building RAG pipelines and conversational agents. Seeking an AI Engineer Internship to learn from senior engineers and contribute to real-world NLP projects.
+
+---
+
+### 🎓 Education
+
+*   **University of Science, VNU-HCM (HCMUS)** | *Ho Chi Minh City*
+*   **Le Quy Don High School for the Gifted** | *Quang Tri*
 
 ---
 
